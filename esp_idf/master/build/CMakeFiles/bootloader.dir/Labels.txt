@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/ngtrunghieu/Documents/Hieu/hispeed_spi_esp32/esp_idf/master/build/CMakeFiles/bootloader
+/Users/ngtrunghieu/Documents/Hieu/hispeed_spi_esp32/esp_idf/master/build/CMakeFiles/bootloader.rule
+/Users/ngtrunghieu/Documents/Hieu/hispeed_spi_esp32/esp_idf/master/build/CMakeFiles/bootloader-complete.rule
+/Users/ngtrunghieu/Documents/Hieu/hispeed_spi_esp32/esp_idf/master/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/ngtrunghieu/Documents/Hieu/hispeed_spi_esp32/esp_idf/master/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/ngtrunghieu/Documents/Hieu/hispeed_spi_esp32/esp_idf/master/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/ngtrunghieu/Documents/Hieu/hispeed_spi_esp32/esp_idf/master/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/ngtrunghieu/Documents/Hieu/hispeed_spi_esp32/esp_idf/master/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/ngtrunghieu/Documents/Hieu/hispeed_spi_esp32/esp_idf/master/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/ngtrunghieu/Documents/Hieu/hispeed_spi_esp32/esp_idf/master/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
